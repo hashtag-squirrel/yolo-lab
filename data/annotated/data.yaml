@@ -1,4 +1,4 @@
-path: data/annotated
+path: C:\Users\vijay\Documents\GitHub\yolo-lab\data\annotated
 
 train: train/images
 val: valid/images
