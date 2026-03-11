@@ -4,8 +4,8 @@ train: train/images
 val: valid/images
 test: test/images
 
-nc: 1
-names: ['bottle', 'phone', 'red-cup']
+nc: 3
+names: ['bottle', 'phone', 'cup']
 
 roboflow:
   workspace: meenakshis-workspace-2a8sg
