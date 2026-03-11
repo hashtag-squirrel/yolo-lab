@@ -1,0 +1,15 @@
+path: data/annotated
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['bottle', 'phone', 'red-cup']
+
+roboflow:
+  workspace: meenakshis-workspace-2a8sg
+  project: find-phones-wpunu
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/meenakshis-workspace-2a8sg/find-phones-wpunu/dataset/1
