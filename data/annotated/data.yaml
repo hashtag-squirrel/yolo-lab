@@ -1,4 +1,4 @@
-path: data/annotated
+path: C:/Dhanya/PythonCourse2526/MachineLearning/repo_yolo/yolo-lab/data/annotated
 
 train: train/images
 val: valid/images
