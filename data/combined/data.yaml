@@ -1,0 +1,15 @@
+path: data/combined
+
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['bottle', 'cup', 'phone']
+
+roboflow:
+  workspace: alitas-workspace
+  project: combined-set-yolo
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/alitas-workspace/combined-set-yolo/dataset/1
