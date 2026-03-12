@@ -1,11 +1,12 @@
 path: data/combined
 
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: C:/Dhanya/PythonCourse2526/MachineLearning/12MAR2026/yolo-lab/data/combined/train/images
+val: C:/Dhanya/PythonCourse2526/MachineLearning/12MAR2026/yolo-lab/data/combined/valid/images
+test: C:/Dhanya/PythonCourse2526/MachineLearning/12MAR2026/yolo-lab/data/combined/test/images
 
 nc: 3
-names: ['bottle', 'cup', 'phone']
+names: ["bottle", "phone", "cup"]
+
 
 roboflow:
   workspace: alitas-workspace
