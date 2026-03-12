@@ -134,7 +134,7 @@ Examples of real-world detections are shown below.
 
 ## Conclusion and future work
 
-In this project, a custom object detection model was successfully trained using YOLOv5 to recognise three everyday objects: a red cup, a blue bottle, and a phone. The workflow covered the complete development process of a computer vision system, including dataset collection, annotation, model training, evaluation, and real-world testing.
+In this project, a custom object detection model was successfully trained using YOLOv8 to recognise three everyday objects: a red cup, a blue bottle, and a phone. The workflow covered the complete development process of a computer vision system, including dataset collection, annotation, model training, evaluation, and real-world testing.
 
 The experimental results show that the model is capable of learning meaningful visual features and achieving reasonable detection performance, especially when trained for a sufficient number of epochs and with the help of data augmentation. Training curves and confusion matrix analysis indicate steady improvements in localisation accuracy, classification confidence, and overall detection quality. Real-world webcam tests further demonstrate that the model can operate in practical scenarios under favourable conditions.
 
