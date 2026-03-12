@@ -32,12 +32,16 @@ This mixed annotation approach helped improve labeling precision while maintaini
 
 ### Examples of labelled images
 
-Original image           |  Labelled image
-:-------------------------:|:-------------------------:
-![](docs/205.jpg)  |  ![](docs/205-labelled.png)
-![](docs/089.jpg)  |  ![](docs/089-labelled.png)
-![](docs/113.jpg)  |  ![](docs/113-labelled.png)
+Original image                            |  Labelled image
+:----------------------------------------:|:-------------------------:
+![Unlabelled phone image](docs/205.jpg)   |  ![Labelled phone image](docs/205-labelled.png)
+![Unlabelled cup image](docs/089.jpg)     |  ![Labelled cup image](docs/089-labelled.png)
+![Unlabelled bottle image](docs/113.jpg)  |  ![Labelled bottle image](docs/113-labelled.png)
 
 ## Training results
+
+We tried training our model for different numbers of epochs, ranging from 3 for the initial tests up to 50 epochs. As expected, the performance differed vastly between the different tries.
+
+
 
 ## Performance in real world scenarios
